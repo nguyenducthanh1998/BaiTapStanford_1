@@ -1,0 +1,7 @@
+D:\hoc tap\C#\BaiTapStanford\BaiTapStanford\BaiTapStanford\bin\Debug\BaiTapStanford.exe.config
+D:\hoc tap\C#\BaiTapStanford\BaiTapStanford\BaiTapStanford\bin\Debug\BaiTapStanford.exe
+D:\hoc tap\C#\BaiTapStanford\BaiTapStanford\BaiTapStanford\bin\Debug\BaiTapStanford.pdb
+D:\hoc tap\C#\BaiTapStanford\BaiTapStanford\BaiTapStanford\obj\Debug\BaiTapStanford.csprojAssemblyReference.cache
+D:\hoc tap\C#\BaiTapStanford\BaiTapStanford\BaiTapStanford\obj\Debug\BaiTapStanford.csproj.CoreCompileInputs.cache
+D:\hoc tap\C#\BaiTapStanford\BaiTapStanford\BaiTapStanford\obj\Debug\BaiTapStanford.exe
+D:\hoc tap\C#\BaiTapStanford\BaiTapStanford\BaiTapStanford\obj\Debug\BaiTapStanford.pdb
